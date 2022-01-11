@@ -1,5 +1,14 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
+date,Date(s),,,Date
+author,Author,true,,Author
+primary_investigator,Primary Investigator,true,,Investigator
+amount,Amount,,,Grant Award Amount
+status,Status
+all_people,,,true,
+department,,true,,Department
+description,,,true
+notes,,,true
+subject,,,true
+sponsor,,,true
+prime,,,true
+college,,,true

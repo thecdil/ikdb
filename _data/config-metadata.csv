@@ -1,15 +1,18 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
+permalink,Link,,true
+date,Date(s),,
+author,Author,true,
+primary_investigator,Primary Investigator,true,
+all_people,People Involved,true,
 description,Description,
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+amount,Award Amount,,,
+status,Status,
+department,Department,true,,
+college,College,true,
+notes,Notes,,
+sponsor,Sponsor,,
+prime,Prime Funder,,
+item_type,Type,
+degree,Degree
